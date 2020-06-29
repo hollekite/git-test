@@ -2,3 +2,4 @@ this is a file in dir1
 just test git
 first add
 second add
+third add

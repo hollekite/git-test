@@ -1,3 +1,4 @@
 test status
 test diff
 test diff2 
+test checkout2

@@ -2,3 +2,5 @@ test status
 test diff
 test diff2 
 test checkout2
+
+test github push

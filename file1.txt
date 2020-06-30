@@ -5,3 +5,5 @@ second add
 third add
 test status
 test diff
+
+测试pull commit

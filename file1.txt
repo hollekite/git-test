@@ -3,3 +3,4 @@ git is a free soft
 first add 
 second add
 third add
+test status
